@@ -2,7 +2,7 @@
 
 A set of standalone Python tools dedicated to the energetic analysis of observational astronomical data, focusing on the characterization of galactic halos and the Circumgalactic Medium (CGM).
 
-Reference manuscript: [Zenodo DOI](https://doi.org/10.5281/zenodo.22011957)
+Manuscript Reference: [Zenodo DOI](https://doi.org/10.5281/zenodo.22011957)
 
 Website Reference: [andreabrussi.it](https://andreabrussi.it)  
 Contact: info@andreabrussi.it  - [ORCID](https://orcid.org/0009-0000-3924-1563)
