@@ -44,14 +44,12 @@ It grants you the freedom to run, study, modify, and redistribute the code. Any 
 
 ## Changelog
 
-### Release 2.1 (September 2026)
-*   Explicit adoption of the GNU General Public License v3.0
-*   Moved the files to the GitHub repository
-
-### Release 2.0 (August 2026)
+### Release 2.0 (September 2026)
 *   Formal project renaming from "NAGE Inventory II" to "GEP II Project".
 *   Updated all filenames to match the new project title.
 *   The core logic of the code remains identical to the previous version.
+*   Explicit adoption of the GNU General Public License v3.0
+*   Moved the files to the GitHub repository
 
 ### Release 1.3 (June 2026)
 *   *Note: Last version released under the "NAGE Inventory II" title.*
