@@ -2,8 +2,10 @@
 
 A set of standalone Python tools dedicated to the energetic analysis of observational astronomical data, focusing on the characterization of galactic halos and the Circumgalactic Medium (CGM).
 
+Reference manuscript: [Zenodo DOI](https://doi.org/10.5281/zenodo.22011957)
+
 Website Reference: [andreabrussi.it](https://andreabrussi.it)  
-Contact: info@andreabrussi.it  - ORCID https://orcid.org/0009-0000-3924-1563
+Contact: info@andreabrussi.it  - [ORCID](https://orcid.org/0009-0000-3924-1563)
 
 ---
 
@@ -41,6 +43,10 @@ It grants you the freedom to run, study, modify, and redistribute the code. Any 
 ---
 
 ## Changelog
+
+### Release 2.1 (September 2026)
+*   Explicit adoption of the GNU General Public License v3.0
+*   Moved the files to the GitHub repository
 
 ### Release 2.0 (August 2026)
 *   Formal project renaming from "NAGE Inventory II" to "GEP II Project".
